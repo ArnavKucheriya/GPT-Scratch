@@ -1,5 +1,3 @@
-# GPT Scratch - Project Paper
-
 # **GPT-Scratch: Building Character-Level Language Models from Scratch**
 
 ## **Abstract**
